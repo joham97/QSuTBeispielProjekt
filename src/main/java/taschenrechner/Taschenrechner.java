@@ -3,7 +3,7 @@ package taschenrechner;
 public class Taschenrechner {
 	
 	public int addieren(int zahl1, int zahl2) {
-		return zahl1 + zahl2;
+		return zahl1 * zahl2;
 	}
 	
 	public int subtrahieren(int zahl1, int zahl2) {
