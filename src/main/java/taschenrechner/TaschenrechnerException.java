@@ -1,4 +1,4 @@
-package program;
+package taschenrechner;
 
 public class TaschenrechnerException extends Exception{
 

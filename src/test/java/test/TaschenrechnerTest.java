@@ -4,8 +4,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import program.Taschenrechner;
-import program.TaschenrechnerException;
+import taschenrechner.Taschenrechner;
+import taschenrechner.TaschenrechnerException;
 
 public class TaschenrechnerTest {
 
